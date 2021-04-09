@@ -1,5 +1,7 @@
-LilyPond Docker Image
+LilyPond Docker Image (v20, v21)
 =====================
-This Dockerfile installs the stable and unstable versions
-of [LilyPond](http://lilypond.org). This image is used by
-[LilyBin](http://lilybin.com) for compiling scores.
+
+Work in progress..
+
+This Dockerfile will install the v20 and v21 versions
+of [LilyPond](http://lilypond.org). This image will be used by Lilybin + HymnSinger for compiling scores
